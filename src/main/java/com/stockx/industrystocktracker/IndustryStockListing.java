@@ -10,6 +10,6 @@ import java.util.List;
 public class IndustryStockListing {
 
     private String sector;
-    private List<Stock> top10StocksByVolume;
+    private List<Stock> top5StocksByMarketCap;
 
 }
