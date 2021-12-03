@@ -1,0 +1,8 @@
+/home/jwanger/Documents/CS4471/Industry-Stock-Tracker/src/main/java/com/stockx/industrystocktracker/IndustryStockTrackerApplication.java
+/home/jwanger/Documents/CS4471/Industry-Stock-Tracker/src/main/java/com/stockx/industrystocktracker/configurations/AppConfiguration.java
+/home/jwanger/Documents/CS4471/Industry-Stock-Tracker/src/main/java/com/stockx/industrystocktracker/controllers/IndustryStockListingsController.java
+/home/jwanger/Documents/CS4471/Industry-Stock-Tracker/src/main/java/com/stockx/industrystocktracker/IndustryStockListing.java
+/home/jwanger/Documents/CS4471/Industry-Stock-Tracker/src/main/java/com/stockx/industrystocktracker/services/IndustryStockListingsService.java
+/home/jwanger/Documents/CS4471/Industry-Stock-Tracker/src/main/java/com/stockx/industrystocktracker/adapters/LiveStockTrackerAdapter.java
+/home/jwanger/Documents/CS4471/Industry-Stock-Tracker/src/main/java/com/stockx/industrystocktracker/Top5StockTickersByMarketCapPerSector.java
+/home/jwanger/Documents/CS4471/Industry-Stock-Tracker/src/main/java/com/stockx/industrystocktracker/Stock.java

@@ -1,0 +1,8 @@
+com/stockx/industrystocktracker/Stock.class
+com/stockx/industrystocktracker/IndustryStockTrackerApplication.class
+com/stockx/industrystocktracker/IndustryStockListing.class
+com/stockx/industrystocktracker/adapters/LiveStockTrackerAdapter.class
+com/stockx/industrystocktracker/controllers/IndustryStockListingsController.class
+com/stockx/industrystocktracker/services/IndustryStockListingsService.class
+com/stockx/industrystocktracker/Top5StockTickersByMarketCapPerSector.class
+com/stockx/industrystocktracker/configurations/AppConfiguration.class
